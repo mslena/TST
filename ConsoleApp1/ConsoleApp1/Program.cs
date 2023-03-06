@@ -10,9 +10,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            if (45 > 23)
+            if (45 < 23)
             {
-                Console.WriteLine("NO!!!!!!");
+                Console.WriteLine("YES, GET IT!!!!!!!!");
             }
         }
     }
